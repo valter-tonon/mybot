@@ -9,7 +9,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^4.4.1",
-    "gsap": "^3.2.6",
+    "gsap": "^3.6.0",
     "icons": "^1.0.0",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
